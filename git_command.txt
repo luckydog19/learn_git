@@ -3,3 +3,5 @@
 2.git remote add origin git@github.com:luckydog19/learn_git.git--和远程仓库建立连接
 
 3.cat _rsa.pub
+
+4.git push -u origin master
